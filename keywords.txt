@@ -1,9 +1,9 @@
-LM7SegShift  		KEYWORD1
+LM7SegShift	KEYWORD1
 
-defineSegments		KEYWORD2
-defineDigits		KEYWORD2
-digWrite		KEYWORD2
-reset			KEYWORD2
+defineSegments	KEYWORD2
+defineDigits	KEYWORD2
+digWrite	KEYWORD2
+reset	KEYWORD2
 setRegisterPinExtras	KEYWORD2
-valueWrite		KEYWORD2
-writeRegisters		KEYWORD2
+valueWrite	KEYWORD2
+writeRegisters	KEYWORD2
